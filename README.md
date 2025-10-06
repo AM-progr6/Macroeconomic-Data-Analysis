@@ -1,16 +1,16 @@
-# 🏦 Macroeconomic Data Analysis Project
+#  Macroeconomic Data Analysis Project
 
-## 🎯 Objective
+##  Objective
 
 This project aims to achieve **economic balance** between three key indicators: economic growth, inflation, and unemployment, providing a clear picture of a stable and healthy economy.
 
-## 🌍 Selected Countries
+##  Selected Countries
 
 The analysis covers **Morocco and Vietnam**.  
 
 Vietnam was chosen because it faced the same challenge as Morocco several years ago: **economic growth without sufficient job creation**.
 
-## 🛠 Methodology
+##  Methodology
 
 The project was carried out in **three main stages**:
 
@@ -34,7 +34,7 @@ The project was carried out in **three main stages**:
 
    - Focused on understanding the economic status of Morocco and Vietnam separately, without direct comparison.
  
-## 📊 Results
+##  Results
 
 - The project helps understand how the three indicators impact economic stability.  
 
@@ -66,7 +66,7 @@ Vietnam managed to achieve economic stability by implementing several key strate
 
    - Continuously monitored economic data and adjusted policies according to real indicators of growth, employment, and inflation.
 
-## 💡 Insights / Lessons Learned
+##  Insights / Lessons Learned
 
 Despite applying the same program to both countries, the results differed:  
 
@@ -74,7 +74,7 @@ Despite applying the same program to both countries, the results differed:
 
 - **Morocco** still faces challenges, indicating that simply applying the same approach is not enough.  
 
-### 📝 Recommendation
+###  Recommendation
 
 To improve Morocco's economic balance, policies should focus on:  
 
@@ -86,7 +86,7 @@ To improve Morocco's economic balance, policies should focus on:
 
 This project shows that while data-driven programs can provide guidance, each country's unique context requires tailored solutions.
 
-## 🚀 Usage
+##  Usage
 
 1. Open the  file.  
 
